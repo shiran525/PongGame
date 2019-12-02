@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637105477285795375
+    buildGUID: 015d417ea889ea04e8a49c7f4465beaa
+    platformName: Win
+    platformGroupName: Standalone
+    options: 8
+    assetBundleOptions: 0
+    outputPath: C:/Users/nagossa/New Unity Project (9)/Assets/Scenes/New Unity Project
+      (9).exe
+    crc: 0
+    totalSize: 0
+    totalTimeTicks: 36457508
+    totalErrors: 1
+    totalWarnings: 0
+    buildType: 1
+    buildResult: 2
+  m_Files: []
+  m_BuildSteps:
+  - stepName: Build player
+    durationTicks: 36457508
+    depth: 0
+    messages:
+    - type: 0
+      content: Building to the Assets folder is not allowed.
+  - stepName: Compile scripts
+    durationTicks: 28695091
+    depth: 1
+    messages: []
+  m_Appendices: []
